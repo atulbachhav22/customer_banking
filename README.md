@@ -20,4 +20,4 @@ In the cd_account.py file, imported the Account class and create a create_cd_acc
 
 In the customer_banking.py file, imported the create_savings_account and create_cd_account functions, then create a main function that prompts the user to enter the savings and CD account details, call the corresponding functions to calculate the interest earned and update the balances, and display the results.
 
-![Alt text](Class Daigram.png)
+![Alt text](https://github.com/atulbachhav22/customer_banking/blob/main/Class%20Daigram.png)
